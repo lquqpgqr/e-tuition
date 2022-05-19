@@ -11,12 +11,20 @@ This app is built using,
 React(front-end) C#(backend) and MSSQL(database)
 
 Required Softwares to run the project:
-Microsoft Visual Studio, Microsoft SQL Server Management Studio.
+
+Microsoft Visual Studio, Microsoft SQL Server Management Studio, NPM.
 The Sql server needs to run in 'SQL Server Authentication' mode,
-with appropriate port settings. Then Database should be created using 'database.txt' file.
+with appropriate port settings.
+
+Then Database should be created using 'database.txt' file.
+
+Run 'npm install' in the 'e-tuition/' and 'e-tuition/e-tuition/ClientApp/' folder
+to install the node modules.
+
 Then the e-tuition.sln file should be run.
 
 Project Features:
+
 There is an home section for teacher and students.
 They can signup/signin separately from home.
 A teacher can create courses and supply materials in each course.
