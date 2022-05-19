@@ -16,7 +16,7 @@ Microsoft Visual Studio, Microsoft SQL Server Management Studio, NPM.
 The Sql server needs to run in 'SQL Server Authentication' mode,
 with appropriate port settings.
 
-Then Database should be created using 'database.txt' file.
+Then Database should be created using 'database.sql' file.
 
 Run 'npm install' in the 'e-tuition/' and 'e-tuition/e-tuition/ClientApp/' folder
 to install the node modules.
